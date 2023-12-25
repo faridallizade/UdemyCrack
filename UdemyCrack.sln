@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCrack.API", "UdemyCrack.API\UdemyCrack.API.csproj", "{A03C48EF-0240-4B78-8E25-BFD5C4517BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCrack.Business", "UdemyCrack.Business\UdemyCrack.Business.csproj", "{85663FE5-322A-4CDB-B522-2FFB7EA3D612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCrack.DAL", "UdemyCrack.DAL\UdemyCrack.DAL.csproj", "{41C6B23E-7C24-4B92-968E-9806E068939C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCrack.Core", "UdemyCrack.Core\UdemyCrack.Core.csproj", "{802C338D-7A13-47B9-8F54-85BCDBE01BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03C48EF-0240-4B78-8E25-BFD5C4517BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03C48EF-0240-4B78-8E25-BFD5C4517BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03C48EF-0240-4B78-8E25-BFD5C4517BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03C48EF-0240-4B78-8E25-BFD5C4517BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85663FE5-322A-4CDB-B522-2FFB7EA3D612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85663FE5-322A-4CDB-B522-2FFB7EA3D612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85663FE5-322A-4CDB-B522-2FFB7EA3D612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85663FE5-322A-4CDB-B522-2FFB7EA3D612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C6B23E-7C24-4B92-968E-9806E068939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C6B23E-7C24-4B92-968E-9806E068939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C6B23E-7C24-4B92-968E-9806E068939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C6B23E-7C24-4B92-968E-9806E068939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802C338D-7A13-47B9-8F54-85BCDBE01BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802C338D-7A13-47B9-8F54-85BCDBE01BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802C338D-7A13-47B9-8F54-85BCDBE01BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802C338D-7A13-47B9-8F54-85BCDBE01BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781D25F4-DCF6-41DD-AC3C-AD639A328760}
+	EndGlobalSection
+EndGlobal
